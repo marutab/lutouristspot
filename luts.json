@@ -52,5 +52,68 @@
     "priceCurrency": "₱",
     "lat": 16.5752027,
     "lng": 120.4152417
+  },
+  {
+    "id": 221,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.8208836,
+    "lng": 120.3333914
+  },
+  {
+    "id": 231,
+    "name": "Agoo Plaza",
+    "imageUrl": "https://i.ytimg.com/vi/9P9Lv3uXN8s/maxresdefault.jpg",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.3223,
+    "lng": 120.3647832
+  },
+  {
+    "id": 241,
+    "name": "Bahay Na Bato Open Art Gallery",
+    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_02.jpg",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.8472315,
+    "lng": 120.3495169
+  },
+  {
+    "id": 251,
+    "name": "St. John the Baptist Parish",
+    "imageUrl": "http://farm3.static.flickr.com/2076/1959138827_9e935dba8e_z.jpg?zz=1",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.6693322,
+    "lng": 120.3360092
+  },
+  {
+    "id": 261,
+    "name": "Eagle of the North",
+    "imageUrl": "https://i.pinimg.com/originals/e8/b1/d3/e8b1d3b212c37a74c295259ce52d4b5f.jpg",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.3297987,
+    "lng": 120.365885
+  },
+  {
+    "id": 271,
+    "name": "Science Centrum and Museum",
+    "imageUrl": "http://photos.wikimapia.org/p/00/06/55/60/94_big.jpg",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.5894335,
+    "lng": 120.3616853
+  },
+  {
+    "id": 281,
+    "name": "Mary Ruth Tabafunda's House",
+    "imageUrl": "https://www.google.com.ph/maps/place/Guinguinabang,+San+Juan,+La+Union/@16.690452,120.3811607,3a,15y,309.04h,89.45t/data=!3m6!1e1!3m4!1s_mutztYgx4XUFH7FuFLCng!2e0!7i13312!8i6656!4m5!3m4!1s0x339192c2aeb2f2f1:0xea04d1d37b777e95!8m2!3d16.6888179!4d120.376697",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.690452,
+    "lng": 120.3811607
   }
- ]
+]
