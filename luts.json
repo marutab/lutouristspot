@@ -1,12 +1,57 @@
 [
   {
-    "id": 221,
-    "name": "USAFFE-NL Military Shrine and Park",
-    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
+    "id": 145,
+    "name": "Baluarte, Carlatan",
+    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.63267,
+    "lng": 120.3089022
+  },
+  {
+    "id": 148,
+    "name": "Old Lighthouse",
+    "imageUrl": "http://makeupquin.weebly.com/uploads/2/2/9/6/22969694/9738221_orig.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.6148268,
+    "lng": 120.278264
+  },
+  {
+    "id": 201,
+    "name": "Pagoda Hill",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 16.6141736,
+    "lng": 120.3169143
+  },
+  {
+    "id": 205,
+    "name": "Botanical Garden",
+    "imageUrl": "https://www.vigattintourism.com/assets/images/photo_library/optimize/13445705827WoqnaRi.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.5873334,
+    "lng": 120.3637176
+  },
+  {
+    "id": 210,
+    "name": "San Juan Beach",
+    "imageUrl": "http://makeupquin.weebly.com/uploads/2/2/9/6/22969694/4852536_orig.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 16.6692639,
+    "lng": 120.3467473
+  },
+  {
+    "id": 211,
+    "name": "Tuddingan Falls",
+    "imageUrl": "http://www.greedypeg.net/p/2015/07/04/16369_1.jpg",
     "price": 100,
     "priceCurrency": "₱",
-    "lat": 16.8208836,
-    "lng": 120.3333914
+    "lat": 16.5752027,
+    "lng": 120.4152417
   }
   {
     "id": 231,
@@ -16,50 +61,5 @@
     "priceCurrency": "₱",
     "lat": 16.3223,
     "lng": 120.3647832
-  }
-  {
-    "id": 241,
-    "name": "Bahay Na Bato Open Art Gallery",
-    "imageUrl": "http://www.tupanggala.com/wp-content/uploads/2017/01/BahaynaBato_02.jpg",
-    "price": 100,
-    "priceCurrency": "₱",
-    "lat": 16.8472315,
-    "lng": 120.3495169
-  }
-  {
-    "id": 251,
-    "name": "St. John the Baptist Parish",
-    "imageUrl": "http://farm3.static.flickr.com/2076/1959138827_9e935dba8e_z.jpg?zz=1",
-    "price": 100,
-    "priceCurrency": "₱",
-    "lat": 16.6693322,
-    "lng": 120.3360092
-  }
-  {
-    "id": 261,
-    "name": "Eagle of the North",
-    "imageUrl": "https://i.pinimg.com/originals/e8/b1/d3/e8b1d3b212c37a74c295259ce52d4b5f.jpg",
-    "price": 100,
-    "priceCurrency": "₱",
-    "lat": 16.3297987,
-    "lng": 120.365885
-  }
-  {
-    "id": 271,
-    "name": "Science Centrum and Museum",
-    "imageUrl": "http://photos.wikimapia.org/p/00/06/55/60/94_big.jpg",
-    "price": 100,
-    "priceCurrency": "₱",
-    "lat": 16.5894335,
-    "lng": 120.3616853
-  }
-  {
-    "id": 281,
-    "name": "Mary Ruth Tabafunda's House",
-    "imageUrl": "https://www.google.com.ph/maps/place/Guinguinabang,+San+Juan,+La+Union/@16.690452,120.3811607,3a,15y,309.04h,89.45t/data=!3m6!1e1!3m4!1s_mutztYgx4XUFH7FuFLCng!2e0!7i13312!8i6656!4m5!3m4!1s0x339192c2aeb2f2f1:0xea04d1d37b777e95!8m2!3d16.6888179!4d120.376697",
-    "price": 50,
-    "priceCurrency": "₱",
-    "lat": 16.690452,
-    "lng": 120.3811607
   }
 ]
