@@ -53,13 +53,4 @@
     "lat": 16.5752027,
     "lng": 120.4152417
   }
-  {
-    "id": 231,
-    "name": "Agoo Plaza",
-    "imageUrl": "https://i.ytimg.com/vi/9P9Lv3uXN8s/maxresdefault.jpg",
-    "price": 100,
-    "priceCurrency": "₱",
-    "lat": 16.3223,
-    "lng": 120.3647832
-  }
 ]
