@@ -53,4 +53,13 @@
     "lat": 16.5752027,
     "lng": 120.4152417
   }
+  {
+    "id": 221,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.8208836,
+    "lng": 120.3333914
+  }
 ]
