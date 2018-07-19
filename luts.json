@@ -1,56 +1,65 @@
 [
   {
     "id": 145,
-    "name": "Charm at the Steps of the Sacre Coeur/Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat1.jpg",
-    "price": 164,
-    "priceCurrency": "EUR",
-    "lat": 48.884211,
-    "lng": 2.346890
+    "name": "Baluarte, Carlatan",
+    "imageUrl": "https://images.summitmedia-digital.com/spotph/images/2017/04/24/la_union_baluarteinside_REV.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.63267,
+    "lng": 120.3089022
   },
   {
     "id": 148,
-    "name": "Trendy Apt in Buttes Montmartre",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat2.jpg",
-    "price": 200,
-    "priceCurrency": "EUR",
-    "lat": 48.885707,
-    "lng": 2.343543
+    "name": "Old Lighthouse",
+    "imageUrl": "http://makeupquin.weebly.com/uploads/2/2/9/6/22969694/9738221_orig.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.6148268,
+    "lng": 120.278264
   },
   {
     "id": 201,
-    "name": "Super 60m2 in trendy neighborhood!",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat3.jpg",
-    "price": 150,
-    "priceCurrency": "EUR",
-    "lat": 48.885312,
-    "lng": 2.341225
+    "name": "Pagoda Hill",
+    "imageUrl": "https://www.vigattintourism.com/assets/article_main_photos/optimize/1347700016pJ7RVOLM.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 16.6141736,
+    "lng": 120.3169143
   },
   {
     "id": 205,
-    "name": "Splendide terrasse vue imprenable",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat4.jpg",
-    "price": 115,
-    "priceCurrency": "EUR",
-    "lat": 48.881840,
-    "lng": 2.343371
+    "name": "Botanical Garden",
+    "imageUrl": "https://www.vigattintourism.com/assets/images/photo_library/optimize/13445705827WoqnaRi.jpg",
+    "price": 50,
+    "priceCurrency": "₱",
+    "lat": 16.5873334,
+    "lng": 120.3637176
   },
   {
     "id": 210,
-    "name": "Superbe vue à 2 min du Sacré Coeur",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat5.jpg",
-    "price": 135,
-    "priceCurrency": "EUR",
-    "lat": 48.888839,
-    "lng": 2.339208
+    "name": "San Juan Beach",
+    "imageUrl": "http://makeupquin.weebly.com/uploads/2/2/9/6/22969694/4852536_orig.jpg",
+    "price": 20,
+    "priceCurrency": "₱",
+    "lat": 16.6692639,
+    "lng": 120.3467473
   },
   {
     "id": 211,
-    "name": "Bohemian and Chic in Paris",
-    "imageUrl": "https://raw.githubusercontent.com/lewagon/flats-boilerplate/master/images/flat6.jpg",
-    "price": 90,
-    "priceCurrency": "EUR",
-    "lat": 48.827855,
-    "lng": 2.350774
+    "name": "Tuddingan Falls",
+    "imageUrl": "http://www.greedypeg.net/p/2015/07/04/16369_1.jpg",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.5752027,
+    "lng": 120.4152417
   }
-]
+  {
+    "id": 221,
+    "name": "USAFFE-NL Military Shrine and Park",
+    "imageUrl": "https://lh3.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=s1600-w400",
+    "price": 100,
+    "priceCurrency": "₱",
+    "lat": 16.8208836,
+    "lng": 120.3333914
+  }
+ ]
